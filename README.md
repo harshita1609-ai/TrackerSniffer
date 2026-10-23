@@ -32,3 +32,6 @@ learners, website developers, and people auditing website resources.
 Planned Features
 - Observe eligible network requests for the active website using
   supported Chrome extension APIs.
+  Extract and normalize hostnames from observed resource URLs.
+Distinguish first-party and third-party domains using documented
+domain-comparison rules.
