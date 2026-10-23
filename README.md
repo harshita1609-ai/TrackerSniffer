@@ -29,3 +29,6 @@ cookie metadata, and a curated tracker list to give users an
 understandable summary of third-party tracking activity?
 The project is intended for privacy-conscious users, cybersecurity
 learners, website developers, and people auditing website resources.
+Planned Features
+- Observe eligible network requests for the active website using
+  supported Chrome extension APIs.
