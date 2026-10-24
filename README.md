@@ -7,7 +7,7 @@ they visit a website. It aims to identify external domains, compare them
 with a locally stored tracker catalogue, inspect accessible cookie
 metadata, and present the findings in a clear privacy scorecard.
 Project status: In development. Features described below are the
-intended project scope and may not all be implemented yet.
+intended project scope and may not all be implemented.
 
 Table of Contents
 - Project Goals
