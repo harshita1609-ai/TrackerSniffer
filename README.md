@@ -9,7 +9,7 @@ metadata, and present the findings in a clear privacy scorecard.
 Project status: In development. Features described below are the
 intended project scope and may not all be implemented yet.
 
-Table of Contents
+# Table of Contents
 - Project Goals
 - Planned Features
 - How It Works
@@ -168,7 +168,7 @@ Known Limitations
   documented model; it is not a formal privacy or compliance
   assessment.
   
-Roadmap
+# Roadmap
 - [ ] Set up the Manifest V3 extension skeleton and document
   permissions.
 - [ ] Create and normalize a local tracker catalogue.
@@ -184,16 +184,16 @@ Roadmap
   permits.
 
 
-Mentor
+# Mentor
 - Tanishka ma'am
 
-Team
+# Team
 - Harshita Singh
 - Soumay Manderna
   
 
   
-Disclaimer
+# Disclaimer
 TrackerSniffer is an educational privacy-auditing project. It does not
 automatically block trackers, guarantee detection of all tracking
 activity, or provide a certified privacy assessment. Use it only on
