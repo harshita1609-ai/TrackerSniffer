@@ -199,3 +199,43 @@ automatically block trackers, guarantee detection of all tracking
 activity, or provide a certified privacy assessment. Use it only on
 websites you are authorized to inspect and follow applicable policies
 and permissions.
+
+
+
+
+I will be  presenting the project, namely TrackerSniffer – Third-Party Ad and Cookie Audit Extension.
+
+The main aim of this project is to help users understand how websites interact with third-party domains and what tracking-related activity may be happening in the background.
+
+Problem and Solution
+
+Whenever we visit a website, it may communicate with several external domains. Some of these may be used for analytics, advertisements, or tracking.
+
+Most users are unaware of these connections.
+
+TrackerSniffer aims to make this activity easier to understand by identifying and displaying observed third-party domains and accessible cookie information.
+
+How It Works
+
+The extension is being developed using JavaScript, HTML, CSS, and Chrome Manifest V3.
+
+It is designed to observe eligible network request information, identify domain names, compare them with a local tracker catalogue, and display relevant cookie metadata.
+
+The goal is to present this information through a simple and understandable dashboard.
+
+Privacy and Progress
+
+Privacy is an important part of this project. The extension is designed to avoid collecting sensitive information such as passwords, session tokens, or cookie values.
+
+During this first month, I have focused on understanding the project requirements, exploring the Chrome extension structure, planning the workflow, and preparing the project documentation.
+
+Next Steps and Conclusion
+
+Moving forward, I plan to work on request monitoring, domain classification, cookie analysis, dashboard development, and testing.
+
+My goal is to make website tracking activity more transparent and easier for everyday users to understand.
+
+Thank you!
+
+
+
